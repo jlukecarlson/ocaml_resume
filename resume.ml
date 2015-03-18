@@ -1,7 +1,5 @@
 
 
-(* Resume in OCaml by Luke Carlson *)
-
 let name = "Luke Carlson"
 let email = "carjack@seas.upenn.edu"	      
 	     
